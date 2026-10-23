@@ -30,7 +30,7 @@ The project combines Python for exploratory data analysis, SQL for querying data
 - `01_retail_eda.py` — Python exploratory data analysis
 - `analysis_queries.sql` — SQL analysis queries
 - `monthly_sales_trend.png` — monthly sales trend visualization
-- `.pbix` file — Power BI dashboard
+- `Retail_Analytics_Dashboard.pbix` file — Power BI dashboard
 
 ## 📊 Analysis Performed
 - Dataset inspection and data quality checks
@@ -49,6 +49,10 @@ The project combines Python for exploratory data analysis, SQL for querying data
 
 ## 📈 Dashboard
 The Power BI dashboard provides visual summaries of retail performance. Open the included `.pbix` file using Power BI Desktop to explore the report.
+### Monthly Sales Trend
+
+![Monthly Sales Trend](monthly_sales_trend.png)
+
 
 ## 🚀 How to Run
 1. Clone or download this repository.
